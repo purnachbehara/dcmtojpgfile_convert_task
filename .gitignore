@@ -1,16 +1,50 @@
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
-!**/src/test/**/target/
-
 ### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
-*.iws
 *.iml
-*.ipr
+# Ignore lock files
+*.~lock*
+
+# Ignore compressed files
+*.7z
+*.zip
+
+# Ignore Office documents
+*.docx
+
+# Ignore CSV files
+*.csv
+
+# Ignore Excel files
+*.xlsx
+
+# Ignore SQL dump files
+*.sql.gz
+
+# Ignore image files
+*.jpg
+
+# Ignore PEM files
+*.pem
+
+# Ignore PDF files
+*.pdf
+
+# Ignore Debian package files
+*.deb
+
+# Ignore iReport directories
+iReport-5.6.0/
+
+# Ignore Postman directory
+postman-9.25.1-linux-x64/
+
+# Ignore node_modules directory (assuming it's a Node.js project)
+node_modules/
+
+# Ignore .idea directory (IntelliJ IDEA settings)
+.idea/
 
 ### Eclipse ###
 .apt_generated

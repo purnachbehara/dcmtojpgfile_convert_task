@@ -6,3 +6,5 @@ $src/main/java/DcmToJpgConverter.java,a/5/a5f8b06db87837f1f5f3cee49b064cfe9445b
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+<
+DcmtoJpg.iml,1/0/109df9445ded34ff3e980353caa92ae7d59e5cf4
